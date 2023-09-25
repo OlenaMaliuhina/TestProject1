@@ -24,7 +24,7 @@ public class Main {
 
         /* test comment */
 
-        System.out.println("fix conflict");
+        System.out.println("fix conflict1");
 
     }
 }
