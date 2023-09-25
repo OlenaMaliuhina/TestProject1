@@ -1,4 +1,7 @@
 package firstapp;
+
+import java.sql.SQLOutput;
+
 public class Main {
     public static void main(String[] args) {
         // 1. Написати програму, яка виведе в консоль довільний текст:
@@ -20,5 +23,8 @@ public class Main {
         System.out.println("Square "+" = "+square);
 
         /* test comment */
+
+        System.out.println("fix conflict");
+
     }
 }
