@@ -18,5 +18,7 @@ public class Main {
         square=0.5*side1*side2;
         System.out.println("side1: "+ side1 + "  "+ " side2: "+side2);
         System.out.println("Square "+" = "+square);
+
+        /* test comment */
     }
 }
