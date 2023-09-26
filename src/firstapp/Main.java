@@ -25,6 +25,6 @@ public class Main {
         /* test comment */
 
         System.out.println("fix conflict1");
-
+        String str = "Test";
     }
 }
